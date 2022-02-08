@@ -314,7 +314,7 @@ p{
   top: 0;
   height: 100%;
   width: 100%;
-  background-image: linear-gradient(600deg, #83bfff 0%, #201f1f 100%);
+  background-image: linear-gradient(600deg, #83bfff 0%, #1b1b1b 100%);
   opacity: .9;
   z-index: -1;
 }
